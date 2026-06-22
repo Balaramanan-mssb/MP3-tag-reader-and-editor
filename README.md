@@ -5,17 +5,25 @@ A command-line application developed in C for reading and editing metadata infor
 Features:
 
 -> View MP3 metadata information
+
 -> Edit Title, Artist, Album, Year, Genre, and Comments
+
 -> Support for ID3v2 tags
+
 -> Binary file handling and parsing
+
 -> Command-line based user interface
+
 -> Validation of MP3 file format
 
 Technologies Used:
 
 -> C Programming
+
 -> File Handling
+
 -> Binary File Operations
+
 -> String Manipulation
 -> Pointers
 -> Structures
