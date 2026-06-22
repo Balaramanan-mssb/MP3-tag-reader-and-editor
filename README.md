@@ -25,17 +25,25 @@ Technologies Used:
 -> Binary File Operations
 
 -> String Manipulation
+
 -> Pointers
+
 -> Structures
+
 -> Command-Line Arguments
 
 Skills:
 
 -> Understanding of MP3 file structure and ID3 tags
+
 -> Binary file processing
+
 -> Data extraction and modification
+
 -> Memory management using pointers
+
 -> Modular programming and debugging
+
 -> Error handling and validation
 
 This project strengthened my knowledge of low-level file operations, data parsing, and software development using the C programming language.
